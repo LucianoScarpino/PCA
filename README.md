@@ -1,7 +1,8 @@
+PCA APPLICATION
+
 This project is part of the Computational Linear Algebra course at Politecnico di Torino, academic year 2024/2025. It focuses on applying Principal Component Analysis (PCA) to real-world tabular data for dimensionality reduction and exploratory analysis.
 
-🔍 Objective
-
+Objective
 The goal was to implement and interpret PCA on a dataset containing high-dimensional responses to survey-style questions. The project includes:
 	- Data preprocessing and cleaning
 	- Manual implementation of PCA using linear algebra concepts
